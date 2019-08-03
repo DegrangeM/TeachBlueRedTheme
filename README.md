@@ -20,3 +20,5 @@ juste après :
 ```
 \usepackage[]{teach}
 ```
+
+Une démonstration est disponible [en cliquant ici](https://github.com/DegrangeM/TeachBlueRedTheme/blob/master/demo.pdf).
