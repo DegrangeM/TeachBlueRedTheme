@@ -23,4 +23,4 @@ juste après :
 
 Une démonstration est disponible [en cliquant ici](https://github.com/DegrangeM/TeachBlueRedTheme/blob/master/demo.pdf).
 
-<img src="https://user-images.githubusercontent.com/53106394/208496988-443bee6e-c739-4eca-b954-fb76df4036b6.png" style="height:150px;" />
+<img src="https://user-images.githubusercontent.com/53106394/208496988-443bee6e-c739-4eca-b954-fb76df4036b6.png" style="height:250px;" />
